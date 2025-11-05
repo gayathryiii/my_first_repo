@@ -1,0 +1,33 @@
+	
+
+	git init.
+	
+	git config user.name "user name".
+
+	git config user. Mail "email" . 
+
+	git status  => to view current status of repo.
+	
+	git add file => to add to git repo.
+
+	git add . => to add all files in repo.
+
+	git commit-m "commit message" => to save changes in repo.
+
+	git log => commit history.
+
+	git branch => to list branches in repo.
+
+	git branch branchname => to create new branch
+
+	git checkout branch name / commit id => to move to that specified branch or commit.
+
+	git diff => to see the difference before adding.
+
+	git stash => to hide code from latest changes.
+
+	git stash list => to view the list of hidden code.
+
+  	git stash pop => to unhide the code stashed.
+
+	git mv old name   new name => to rename a file
